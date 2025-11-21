@@ -1,6 +1,6 @@
-# Pie
+# Graph.js
 
-Pie - JavaScript library for creating graphs (In development)
+Graph.js - JavaScript library for creating graphs (In development)
 
 ## Usage
 
@@ -9,7 +9,7 @@ Here is an example of how to use Pie:
 <!DOCTYPE html>
 <html>
     <head>
-        <script src="pie.js"></script> <!-- Importing library file -->
+        <script src="graph.js"></script> <!-- Importing library file -->
     </head>
     <body>
         <div id="graphs"> <!-- Graphs container -->
@@ -27,6 +27,6 @@ Here is an example of how to use Pie:
 ```
 This code will draw a black line that starts in the top left corner of browser tab and ends in center of the graph
 
-## Pie documentation
+## Documentation
 
-You can read how to use Pie in the DOCUMENTATION.md file in the repository
+You can read how to use Graph.js in the DOCUMENTATION.md file in the repository
